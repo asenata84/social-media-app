@@ -1,0 +1,8 @@
+.comments-btn {
+  font-size: 12px;
+}
+
+.comments-btn:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
