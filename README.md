@@ -11,6 +11,6 @@ See `/src/api.js`.
 3. On a click on `View post comments` button show the `PostComments.jsx` component with the comments for that post. Complete the implementation of the `PostComments.jsx` component so that it shows each comment name, body, email.
 
 ## Workflow
-1. Create a branch from master with your name in it as following: "Exercise-Ivan-Ivanov".
+1. Create a branch from master with your name in it as following: `Exercise-Ivan-Ivanov`.
 2. Do the exercise in your branch and commit in it whenever you think is appropriate.
 3. At the end of the interview make sure you have pushed your changes to the remote repository.
